@@ -22,3 +22,7 @@ Soy un desarrollador web, me apasiona resolver problemas de logica y el cafe. Me
 - [Mi Indeed 👤](https://profile.indeed.com/?hl=es_MX&co=MX&from=gnav-homepage&_ga=2.167417079.815501833.1678520711-1572533139.1678214712)
 
 ¡No dudes en contactarme si tienes alguna pregunta o quieres colaborar en algún proyecto! 😄
+
+<div>
+  <img src="./src/footer.png" style="width=100%;">
+</div>

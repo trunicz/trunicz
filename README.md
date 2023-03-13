@@ -1,6 +1,8 @@
 # ¡Hola! Soy Romel Peralta
 
-![Imagen de perfil](https://pbs.twimg.com/profile_images/1508879723329327105/pe_kK1-8_400x400.jpg)
+<div>
+  <img src="./src/background.gif" style="width=100%;">
+</div>
 
 ## Acerca de mí 😃
 
@@ -22,5 +24,3 @@ Soy un/a desarrollador Backend, y me apasiona resolver problemas de logica y el 
 - [Mi Indeed 👤](https://profile.indeed.com/?hl=es_MX&co=MX&from=gnav-homepage&_ga=2.167417079.815501833.1678520711-1572533139.1678214712)
 
 ¡No dudes en contactarme si tienes alguna pregunta o quieres colaborar en algún proyecto! 😄
-
-![GIF de programación](https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif)

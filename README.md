@@ -4,11 +4,12 @@
 
 ## Acerca de mí 😃
 
-Soy un desarrollador web, me apasiona resolver problemas de logica y el cafe. Me gusta aprender cosas nuevas y explorar diferentes tecnologías y herramientas. Me gusta trabajar en proyectos desafiantes y colaborar con otros desarrolladores.
+Soy un desarrollador web, me apasiona resolver problemas de lógica y el café. Me gusta aprender cosas nuevas y explorar diferentes tecnologías y herramientas. Me gusta trabajar en proyectos desafiantes y colaborar con otros desarrolladores.
 
 ## Habilidades técnicas 🛠
 
 - Desarrollo web con HTML, CSS, JavaScript y frameworks como Vue.js
+- Amplias habilidades en desarrollo backend con PHP
 - Uso de bases de datos SQL
 - Experiencia en administración de sistemas operativos como Linux y Windows
 - Manejo de herramientas de control de versiones como Git y GitHub

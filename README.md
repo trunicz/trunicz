@@ -15,9 +15,12 @@ Soy un desarrollador web, me apasiona resolver problemas de lógica y el café. 
 - Manejo de herramientas de control de versiones como Git y GitHub
 - Diseño y desarrollo de interfaces de usuario con Figma
 - Conocimientos en metodologías de desarrollo ágil como Scrum
-<a href="mailto:romelg.peralta@gmail.com" align="center">
-<img src="./src/contacto.gif" style="width=100%;">
-</a>
+  <a href="mailto:romelg.peralta@gmail.com" align="center">
+  <img src="./src/contacto.gif" style="width=100%;">
+  </a>
+
+---
+
 <div align="center">
     <a href="https://www.instagram.com/_romelgp/" alt="instagram">
       <img src="./src/instagram.gif">

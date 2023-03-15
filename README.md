@@ -26,17 +26,17 @@ Soy un desarrollador web, me apasiona resolver problemas de lógica y el café. 
     <a href="https://www.instagram.com/_romelgp/">
       <img src="./src/instagram.gif">
     </a>
-  <div>
+  </div>
   <div style="width=33%;">
     <a href="mailto:romelg.peralta@gmail.com">
       <img src="./src/mail.gif">
     </a>
-  <div>
+  </div>
   <div style="width=33%;">
     <a href="https://twitter.com/MrTrunix">
       <img src="./src/twitter.gif">
     </a>
-  <div>
+  </div>
 </div>
 
 ¡No dudes en contactarme si tienes alguna pregunta o quieres colaborar en algún proyecto! 😄

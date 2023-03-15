@@ -21,7 +21,7 @@ Soy un desarrollador web, me apasiona resolver problemas de lógica y el café. 
 <div>
   <img src="./src/contacto.gif" style="width=100%;">
 </div>
-<div style="width=100%;display=flex;">
+<div style="width=100%;display=flex;flex-wrap=wrap;">
   <div style="width=33%;">
     <a href="https://www.instagram.com/_romelgp/">
       <img src="./src/instagram.gif">

@@ -21,7 +21,7 @@ Soy un desarrollador web, me apasiona resolver problemas de lógica y el café. 
 <div>
   <img src="./src/contacto.gif" style="width=100%;">
 </div>
-<div style="width=100%;">
+<div style="width=100%;display=flex;">
   <div style="width=33%;">
     <a href="https://www.instagram.com/_romelgp/">
       <img src="./src/instagram.gif">
@@ -38,10 +38,6 @@ Soy un desarrollador web, me apasiona resolver problemas de lógica y el café. 
     </a>
   <div>
 </div>
-
-- [Mi Mail ✉️](mailto:romelg.peralta@gmail.com)
-- [Mi Twitter 🐦](https://twitter.com/MrTrunix)
-- [Mi Indeed 👤](https://profile.indeed.com/?hl=es_MX&co=MX&from=gnav-homepage&_ga=2.167417079.815501833.1678520711-1572533139.1678214712)
 
 ¡No dudes en contactarme si tienes alguna pregunta o quieres colaborar en algún proyecto! 😄
 

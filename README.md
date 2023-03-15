@@ -33,7 +33,9 @@ Soy un desarrollador web, me apasiona resolver problemas de lógica y el café. 
     </a>
 </div>
 
+<p align="center" height="30px">
 ¡No dudes en contactarme si tienes alguna pregunta o quieres colaborar en algún proyecto! 😄
+</p>
 
 <div>
   <img src="./src/footer.gif" style="width=100%;">
